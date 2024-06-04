@@ -3,7 +3,7 @@ Exploratory Data Analysis using Python on a Car dataset. The dataset used here i
 
 The goal of this EDA is to answer following questions:
 
-Effects of features on the price
-How does the brand affect the price?
-Price VS. popularity?
-Does Brand affect the Popularity?
+- Effects of features on the price
+- How does the brand affect the price?
+- Price VS. popularity?
+- Does Brand affect the Popularity?
